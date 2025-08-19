@@ -52,17 +52,16 @@ The dashboard allows users to:
 Add your own screenshots here to demonstrate the dashboard:
 
 * **App Home Page**
-  ![App Home](screenshots/home.png)
+  ![home page](2.png).
 
 * **CSV Upload Example**
-  ![CSV Upload](screenshots/upload.png)
+  ![CSV Upload](3.png)
 
 * **SQL Query Result**
-  ![SQL Query](screenshots/query.png)
+  ![SQL Query](4.png)
 
 * **Visualization (Bar Chart Example)**
-  ![Visualization](<img width="1775" height="962" alt="image" src="https://github.com/user-attachments/assets/b323de49-b420-4b98-8346-d39ccc1d4aa3" />
-)
+  ![Visualization](1.png)
 
 *(Make sure to place your screenshots inside a `screenshots/` folder in this repo.)*
 
